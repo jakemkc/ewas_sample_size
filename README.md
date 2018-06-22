@@ -35,7 +35,6 @@ Cohort studies with hundreds of participants are underpowered (< 0.8) for EWAS-r
 - This github repository hosts analytical materials for estimating sample size requirement for EWAS, using LIFE Study data.
 - Code for data clean-up, processing, analysis, and visulization can be found on [GitHub](https://github.com/jakemkc/ewas_sample_size)
 - Main findings of our study can be found [here](results/results.md)
-
 <!--
 - Preprint paper can be downloaded from [BioRxiv](https://doi.org/10.1101/175513)
 -->
