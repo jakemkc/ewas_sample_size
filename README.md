@@ -39,6 +39,5 @@ Cohort studies with hundreds of participants are underpowered (< 0.8) for EWAS-r
 <!--
 - Preprint paper can be downloaded from [BioRxiv](https://doi.org/10.1101/175513)
 -->
-
 - Please contact us for further information, thank you.
 
